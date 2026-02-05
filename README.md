@@ -285,6 +285,6 @@ Need help? Have questions?
 
 ⭐ **Star this platform** to show your support!
 
-** Try out CodeShare V1.0 Today Stable Release **
+**Try out CodeShare V1.0 Today Stable Release**
 
 </div>
