@@ -256,6 +256,8 @@ const ADMIN_EMAILS = [
 - [ ] Code syntax highlighting
 - [ ] Download repository as ZIP
 - [ ] Repository templates
+- [ ] Editable repositories
+- [ ] Username Changer (change once every 1 week)
 
 ## 📄 License
 
@@ -282,5 +284,7 @@ Need help? Have questions?
 **Built with ❤️ for the developer community**
 
 ⭐ **Star this platform** to show your support!
+
+** Try out CodeShare V1.0 Today Stable Release **
 
 </div>
