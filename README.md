@@ -268,6 +268,7 @@ const ADMIN_EMAILS = [
 - [ ] Repository templates
 - [ ] Editable repositories
 - [ ] Username Changer (change once every 1 week)
+- [ ] Account Switcher
 
 ## 📄 License
 
