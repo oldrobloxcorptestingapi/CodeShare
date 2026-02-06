@@ -251,7 +251,7 @@ const ADMIN_EMAILS = [
 - [ ] Fork functionality
 - [ ] Pull requests
 - [ ] Issues and discussions
-- [ ] Notifications system
+- [X] Notifications system
 - [ ] OAuth integration (GitHub, Google)
 - [ ] Code syntax highlighting
 - [ ] Download repository as ZIP
