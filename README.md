@@ -28,6 +28,10 @@ CodeShare is a sleek, dark-themed repository platform that allows developers to 
 - **Account Status** - Active or Deactivated indicators
 - **Custom Avatars** - Color-coded initials for each user
 
+- **User Account View PreView**
+
+<img src="./preview2.png" alt="Alt text" width="800" height="800">
+
 ### 📂 Repository Management
 - **Create Repositories** - Upload multiple code files with descriptions
 - **README Support** - Markdown-formatted project documentation
@@ -65,6 +69,10 @@ CodeShare is a sleek, dark-themed repository platform that allows developers to 
 - **Smooth Animations** - Professional transitions and effects
 - **Toast Notifications** - Real-time feedback for user actions
 - **Modal Code Viewer** - Full-screen repository exploration
+
+- **Preview Of UI**
+
+<img src="./preview1.png" alt="Alt text" width="800" height="800">
 
 ### 👑 Admin Features
 - **Admin Panel** - Exclusive control panel for administrators
