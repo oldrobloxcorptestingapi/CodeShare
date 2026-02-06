@@ -1,4 +1,6 @@
-# CodeShare 📦
+<img src="https://oldrobloxcorperation.wasmer.app/favicon3.png" alt="Alt text" width="130" height="130">
+
+# CodeShare 
 
 > A modern, GitHub-inspired code repository platform for sharing and discovering code projects
 
