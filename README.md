@@ -1,4 +1,4 @@
-<img src="https://oldrobloxcorperation.wasmer.app/favicon3.png" alt="Alt text" width="130" height="130">
+<img src="https://oldrobloxcorperation.wasmer.app/favicon3.png" alt="Alt text" width="160" height="160">
 
 # CodeShare 
 
