@@ -266,9 +266,10 @@ const ADMIN_EMAILS = [
 - [ ] Code syntax highlighting
 - [ ] Download repository as ZIP
 - [ ] Repository templates
-- [ ] Editable repositories
+- [X] Editable repositories
 - [ ] Username Changer (change once every 1 week)
-- [ ] Account Switcher
+- [X] Account Switcher
+- [X] More ReamMe Features
 
 ## 📄 License
 
